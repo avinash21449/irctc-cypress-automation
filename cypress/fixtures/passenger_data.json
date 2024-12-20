@@ -1,24 +1,24 @@
 {
-  "TRAIN_NO": "13185",
-  "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "24/08/2024",
-  "SOURCE_STATION": "SDAH",
+  "TRAIN_NO": "15910",
+  "TRAIN_COACH": "SL",
+  "TRAVEL_DATE": "23/12/2024",
+  "SOURCE_STATION": "MFP",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "DBG",
+  "DESTINATION_STATION": "GHY",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
-      "AGE": 26,
-      "GENDER": "Male",
+      "NAME": "ARCHANA SINGH",
+      "AGE": 45,
+      "GENDER": "Female",
       "SEAT": "No Preference",
       "FOOD": "No Food"
     },
     {
-      "NAME": "Shivam Dubey",
-      "AGE": 26,
+      "NAME": "RIYA SINGH",
+      "AGE": 20,
       "GENDER": "Female",
       "SEAT": "No Preference",
       "FOOD": "No Food"
